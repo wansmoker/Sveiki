@@ -1,2 +1,2 @@
-# Sveiki
-Töö
+# Harjutus-main
+Harjutamiseks
